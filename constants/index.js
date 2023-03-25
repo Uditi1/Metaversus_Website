@@ -1,4 +1,5 @@
 export const exploreWorlds = [
+
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
@@ -85,4 +86,5 @@ export const socials = [
     name: 'facebook',
     url: '/facebook.svg',
   },
+  
 ];

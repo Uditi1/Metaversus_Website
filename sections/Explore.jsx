@@ -11,6 +11,7 @@ const Explore = () => {
   const [active, setActive] = useState('world-2')
 
   return (
+
     <>
       <section className={`${styles.paddings}`} id="explore">
         <motion.div
@@ -44,6 +45,7 @@ const Explore = () => {
         </motion.div>
       </section>
     </>
+    
   );
 };
 

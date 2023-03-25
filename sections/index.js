@@ -8,6 +8,7 @@ import Insights from './Insights';
 import Feedback from './Feedback';
 
 export {
+
   Hero,
   About,
   Explore,
@@ -16,4 +17,5 @@ export {
   World,
   Insights,
   Feedback,
+  
 };

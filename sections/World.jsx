@@ -5,6 +5,7 @@ import styles from "../styles";
 import { staggerContainer, fadeIn } from "../utils/motion";
 
 const World = () => (
+
   <section className={`${styles.paddings} relative z-10`}>
     <motion.div
       variants={staggerContainer}
@@ -44,6 +45,7 @@ const World = () => (
       </motion.div>
     </motion.div>
   </section>
+  
 );
 
 export default World;
