@@ -11,6 +11,7 @@ import {
 } from "../sections";
 
 const Page = () => (
+
   <div className="bg-primary-black overflow-hidden">
     <Navbar />
     <Hero />
@@ -35,6 +36,7 @@ const Page = () => (
     <Feedback />
     <Footer />
   </div>
+  
 );
 
 export default Page;
